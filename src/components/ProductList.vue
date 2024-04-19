@@ -69,7 +69,11 @@
 }
 
 .product-table th {
+<<<<<<< HEAD
   background-color: #EADBC8;
+=======
+  background-color: #f2f2f2;
+>>>>>>> 9cf2b989676464ffba03b90010e1f7b016ac930b
 }
 
 .alert-success {
